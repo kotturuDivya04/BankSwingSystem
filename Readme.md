@@ -63,8 +63,6 @@ images/
 ![Main Menu](images/main.png)
 ![Create Account](images/create.png)
 ![Deposit](images/deposit.png)
-![Withdraw](images/withdraw.png)
-![Balance](images/balance.png)
 
 ---
 
