@@ -46,26 +46,15 @@ java Main
 ```
 
 ---
-
 ## 📸 Screenshots
 
-> Add screenshots inside an `images/` folder
-
-```id="tq0tsv"
-images/
-├── main.png
-├── create.png
-├── deposit.png
-```
-
-### Example Display
-
 ![Main Menu](images/main.png)
+
 ![Create Account](images/create.png)
+
 ![Deposit](images/deposit.png)
 
 ---
-
 ## 🎯 Highlights
 
 * Modular structure (model, service, ui)
@@ -84,8 +73,9 @@ images/
 
 ---
 
+
 ## 👩‍💻 Author
 
-**[Your Name]**
-B.Tech Data Science Student
+**[Kotturu Divya]**  
+B.Tech Data Science Student  
 Anurag University
