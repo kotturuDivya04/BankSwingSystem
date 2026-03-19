@@ -76,6 +76,6 @@ java Main
 
 ## 👩‍💻 Author
 
-**[Kotturu Divya]**  
+**Kotturu Divya**  
 B.Tech Data Science Student  
 Anurag University
